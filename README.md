@@ -23,20 +23,6 @@ Tech Stack
   - Streamlit (Web Interface)
   - Caffe Model (Pre-trained for Colorization)
 
-Installation & Setup
-1. Clone the Repository
-   git clone https://github.com/your-username/image-colorization.git
-   cd image-colorization
-
-2. Install Dependencies
-   pip install -r requirements.txt
-
-3. Run the Application
-   - For GUI (PyQt5):
-     python gui.py
-   - For Web App (Streamlit):
-     streamlit run app.py
-
 How It Works
 1. Upload a grayscale image.
 2. Select automatic or manual colorization.
